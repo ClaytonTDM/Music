@@ -1044,6 +1044,32 @@
 <hr />
 <details>
     <hr />
+    <summary>Super Hexagon EP</summary>
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part1.rar"
+        >UNRARMEPLS.part1.rar</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part2.rar"
+        >UNRARMEPLS.part2.rar</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part3.rar"
+        >UNRARMEPLS.part3.rar</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part4.rar"
+        >UNRARMEPLS.part4.rar</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part5.rar"
+        >UNRARMEPLS.part5.rar</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part6.rar"
+        >UNRARMEPLS.part6.rar</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part7.rar"
+        >UNRARMEPLS.part7.rar</a
+    ><br />
+</details>
+<hr />
+<details>
+    <hr />
     <summary>UNDERTALE Soundtrack</summary>
     <a class="link" href="UNDERTALE%20Soundtrack%2FUNDERTALE%20Soundtrack.png"
         >UNDERTALE Soundtrack.png</a
