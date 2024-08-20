@@ -1045,26 +1045,19 @@
 <details>
     <hr />
     <summary>Super Hexagon EP</summary>
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part1.rar"
-        >UNRARMEPLS.part1.rar</a
+    <a class="link" href="Super%20Hexagon%20EP%2FSuper%20Hexagon%20EP.jpg"
+        >Super Hexagon EP.jpg</a
     ><br />
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part2.rar"
-        >UNRARMEPLS.part2.rar</a
+    <a class="link" href="Super%20Hexagon%20EP%2FCourtesy.flac">Courtesy.flac</a
     ><br />
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part3.rar"
-        >UNRARMEPLS.part3.rar</a
+    <a class="link" href="Super%20Hexagon%20EP%2FOtis.flac">Otis.flac</a><br />
+    <a class="link" href="Super%20Hexagon%20EP%2FFocus.flac">Focus.flac</a
     ><br />
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part4.rar"
-        >UNRARMEPLS.part4.rar</a
+    <a class="link" href="Super%20Hexagon%20EP%2FFocusedest.flac"
+        >Focusedest.flac</a
     ><br />
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part5.rar"
-        >UNRARMEPLS.part5.rar</a
-    ><br />
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part6.rar"
-        >UNRARMEPLS.part6.rar</a
-    ><br />
-    <a class="link" href="Super%20Hexagon%20EP%2FUNRARMEPLS.part7.rar"
-        >UNRARMEPLS.part7.rar</a
+    <a class="link" href="Super%20Hexagon%20EP%2FFocus%20Finale.flac"
+        >Focus Finale.flac</a
     ><br />
 </details>
 <hr />
