@@ -18,7 +18,7 @@ jobs:
         sudo apt-get install -y unrar
         cd "Super Hexagon EP"
         for file in *.part*.rar; do
-          unrar x "$file"
+          unrar e -y "$file"
           rm "$file"
         done
     
