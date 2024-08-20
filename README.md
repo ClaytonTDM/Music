@@ -1044,6 +1044,19 @@
 <hr />
 <details>
     <hr />
+    <summary>Super Hexagon</summary>
+    <a class="link" href="Super%20Hexagon%2FCourtesy.ogg">Courtesy.ogg</a><br />
+    <a class="link" href="Super%20Hexagon%2FFocus%20Finale.ogg"
+        >Focus Finale.ogg</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%2FFocus.ogg">Focus.ogg</a><br />
+    <a class="link" href="Super%20Hexagon%2FFocusedest.ogg">Focusedest.ogg</a
+    ><br />
+    <a class="link" href="Super%20Hexagon%2FOtis.ogg">Otis.ogg</a><br />
+</details>
+<hr />
+<details>
+    <hr />
     <summary>UNDERTALE Soundtrack</summary>
     <a class="link" href="UNDERTALE%20Soundtrack%2FUNDERTALE%20Soundtrack.png"
         >UNDERTALE Soundtrack.png</a
