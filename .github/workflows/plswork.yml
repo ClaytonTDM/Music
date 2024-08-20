@@ -18,7 +18,6 @@ jobs:
         sudo apt-get install -y unrar
         cd "Super Hexagon EP"
         unrar x -y "*.part1.rar"
-        rm "*.part*.rar"
     
     - name: Commit Changes
       run: |
