@@ -1,6 +1,96 @@
 <!-- files -->
 <details>
     <hr />
+    <summary>A Dance Of Fire and Ice - OST</summary>
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FA%20Dance%20of%20Fire%20and%20Ice.flac"
+        >A Dance of Fire and Ice.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FOffbeats.flac"
+        >Offbeats.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FThe%20Wind-Up.flac"
+        >The Wind-Up.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FLove%20Letters.flac"
+        >Love Letters.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FThe%20Midnight%20Train.flac"
+        >The Midnight Train.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FPulse.flac"
+        >Pulse.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FThanks%20For%20Playing%20My%20Game.flac"
+        >Thanks For Playing My Game.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FSpin%202%20Win.flac"
+        >Spin 2 Win.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FJungle%20City.flac"
+        >Jungle City.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FButterfly%20Planet.flac"
+        >Butterfly Planet.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FArtificial%20Chariot.flac"
+        >Artificial Chariot.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FThird%20Wave%20Flip-Flop.flac"
+        >Third Wave Flip-Flop.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FOne%20forgotten%20night.flac"
+        >One forgotten night.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FBonus%20-%20A%20Dance%20of%20Fire%20and%20Ice%20%5BRabbit%20ver.%5D.flac"
+        >Bonus - A Dance of Fire and Ice [Rabbit ver.].flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FBonus%20-%20A%20Dance%20of%20Fire%20and%20Ice%20%5BSpooky%20ver.%5D.flac"
+        >Bonus - A Dance of Fire and Ice [Spooky ver.].flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FIt%20Go.flac"
+        >It Go.flac</a
+    ><br />
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20-%20OST%2FLORELEI.flac"
+        >LORELEI.flac</a
+    ><br />
+</details>
+<hr />
+<details>
+    <hr />
     <summary>Celeste Original Soundtrack</summary>
     <a
         class="link"
