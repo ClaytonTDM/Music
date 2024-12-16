@@ -1,87 +1,93 @@
 <!-- files -->
 <details>
     <hr />
-    <summary>A Dance Of Fire and Ice</summary>
+    <summary>A Dance Of Fire and Ice OST</summary>
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FA%20Dance%20Of%20Fire%20And%20Ice.jpg"
-        >A Dance Of Fire And Ice.jpg</a
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FA%20Dance%20Of%20Fire%20And%20Ice%20OST.jpg"
+        >A Dance Of Fire And Ice OST.jpg</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FA%20Dance%20of%20Fire%20and%20Ice.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FA%20Dance%20of%20Fire%20and%20Ice.flac"
         >A Dance of Fire and Ice.flac</a
     ><br />
-    <a class="link" href="A%20Dance%20Of%20Fire%20and%20Ice%2FOffbeats.flac"
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FOffbeats.flac"
         >Offbeats.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FThe%20Wind-Up.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FThe%20Wind-Up.flac"
         >The Wind-Up.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FLove%20Letters.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FLove%20Letters.flac"
         >Love Letters.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FThe%20Midnight%20Train.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FThe%20Midnight%20Train.flac"
         >The Midnight Train.flac</a
     ><br />
-    <a class="link" href="A%20Dance%20Of%20Fire%20and%20Ice%2FPulse.flac"
+    <a class="link" href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FPulse.flac"
         >Pulse.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FThanks%20For%20Playing%20My%20Game.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FThanks%20For%20Playing%20My%20Game.flac"
         >Thanks For Playing My Game.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FSpin%202%20Win.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FSpin%202%20Win.flac"
         >Spin 2 Win.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FJungle%20City.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FJungle%20City.flac"
         >Jungle City.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FButterfly%20Planet.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FButterfly%20Planet.flac"
         >Butterfly Planet.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FArtificial%20Chariot.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FArtificial%20Chariot.flac"
         >Artificial Chariot.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FThird%20Wave%20Flip-Flop.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FThird%20Wave%20Flip-Flop.flac"
         >Third Wave Flip-Flop.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FOne%20forgotten%20night.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FOne%20forgotten%20night.flac"
         >One forgotten night.flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FBonus%20-%20A%20Dance%20of%20Fire%20and%20Ice%20%5BRabbit%20ver.%5D.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FBonus%20-%20A%20Dance%20of%20Fire%20and%20Ice%20%5BRabbit%20ver.%5D.flac"
         >Bonus - A Dance of Fire and Ice [Rabbit ver.].flac</a
     ><br />
     <a
         class="link"
-        href="A%20Dance%20Of%20Fire%20and%20Ice%2FBonus%20-%20A%20Dance%20of%20Fire%20and%20Ice%20%5BSpooky%20ver.%5D.flac"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FBonus%20-%20A%20Dance%20of%20Fire%20and%20Ice%20%5BSpooky%20ver.%5D.flac"
         >Bonus - A Dance of Fire and Ice [Spooky ver.].flac</a
     ><br />
-    <a class="link" href="A%20Dance%20Of%20Fire%20and%20Ice%2FIt%20Go.flac"
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FIt%20Go.flac"
         >It Go.flac</a
     ><br />
-    <a class="link" href="A%20Dance%20Of%20Fire%20and%20Ice%2FLORELEI.flac"
+    <a
+        class="link"
+        href="A%20Dance%20Of%20Fire%20and%20Ice%20OST%2FLORELEI.flac"
         >LORELEI.flac</a
     ><br />
 </details>
@@ -575,39 +581,39 @@
 <hr />
 <details>
     <hr />
-    <summary>DOORS Original Game Soundtrack</summary>
+    <summary>DOORS (Original Game Soundtrack)</summary>
     <details>
         <hr />
         <summary>Volume 1</summary>
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%201.png"
-            >DOORS (Original Game Soundtrack), Vol. 1.png</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%201%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%201%20-%20EP.jpg"
+            >DOORS (Original Game Soundtrack), Vol. 1 - EP.jpg</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FDawn%20Of%20The%20Doors.mp3"
-            >Dawn Of The Doors.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%201%2FDawn%20Of%20The%20Doors.flac"
+            >Dawn Of The Doors.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FElevator%20Jam.mp3"
-            >Elevator Jam.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%201%2FHere%20I%20Come.flac"
+            >Here I Come.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FGuiding%20Light.mp3"
-            >Guiding Light.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%201%2FUnhinged.flac"
+            >Unhinged.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FHere%20I%20Come.mp3"
-            >Here I Come.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%201%2FGuiding%20Light.flac"
+            >Guiding Light.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FUnhinged.mp3"
-            >Unhinged.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%201%2FElevator%20Jam.flac"
+            >Elevator Jam.flac</a
         ><br />
     </details>
     <hr />
@@ -616,38 +622,38 @@
         <summary>Volume 2</summary>
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%202.png"
-            >DOORS (Original Game Soundtrack), Vol. 2.png</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%202%20-%20EP.jpg"
+            >DOORS (Original Game Soundtrack), Vol. 2 - EP.jpg</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FTrailer%20Theme%20Remix.mp3"
-            >Trailer Theme Remix.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FJeff's%20Jingle.flac"
+            >Jeff's Jingle.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FElevator%20Jam%20Remix.mp3"
-            >Elevator Jam Remix.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FUnhinged%20II.flac"
+            >Unhinged II.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FCurious%20Light.mp3"
-            >Curious Light.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FElevator%20Jammed.flac"
+            >Elevator Jammed.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FJeff's%20Jingle.mp3"
-            >Jeff's Jingle.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FCurious%20Light.flac"
+            >Curious Light.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FUnhinged%20II.mp3"
-            >Unhinged II.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FTrailer%20Theme%20(Remix).flac"
+            >Trailer Theme (Remix).flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FElevator%20Jammed.mp3"
-            >Elevator Jammed.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%202%2FElevator%20Jam%20(Remix).flac"
+            >Elevator Jam (Remix).flac</a
         ><br />
     </details>
     <hr />
@@ -656,38 +662,78 @@
         <summary>Volume 3</summary>
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%203.png"
-            >DOORS (Original Game Soundtrack), Vol. 3.png</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%203%20-%20EP.jpg"
+            >DOORS (Original Game Soundtrack), Vol. 3 - EP.jpg</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FDusk%20Of%20The%20Doors.mp3"
-            >Dusk Of The Doors.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FDusk%20Of%20The%20Doors.flac"
+            >Dusk Of The Doors.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FJeffs%20Jingle%20Remix.mp3"
-            >Jeffs Jingle Remix.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FJeff's%20Jingle%20(DNB%20Remix).flac"
+            >Jeff's Jingle (DNB Remix).flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FMake%20Haste.mp3"
-            >Make Haste.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FMake%20Haste.flac"
+            >Make Haste.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FSeek%20Merch%20Trailer%20Theme.mp3"
-            >Seek Merch Trailer Theme.mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FSeek%20Merch%20Trailer%20Theme.flac"
+            >Seek Merch Trailer Theme.flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(Retro%20Mode).mp3"
-            >Elevator Jam (Retro Mode).mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FElevator%20Jam%20(Retro%20Mode).flac"
+            >Elevator Jam (Retro Mode).flac</a
         ><br />
         <a
             class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(April%20Fools).mp3"
-            >Elevator Jam (April Fools).mp3</a
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%203%2FElevator%20Jam%20(April%20Fools).flac"
+            >Elevator Jam (April Fools).flac</a
+        ><br />
+    </details>
+    <hr />
+    <details>
+        <hr />
+        <summary>Volume 4</summary>
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%204%20-%20EP.jpg"
+            >DOORS (Original Game Soundtrack), Vol. 4 - EP.jpg</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FReady%20Or%20Not.flac"
+            >Ready Or Not.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FReady%20To%20Rumble.flac"
+            >Ready To Rumble.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FJeff's%20Jam.flac"
+            >Jeff's Jam.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FOh%20Dam.flac"
+            >Oh Dam.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FFresh%20Air%20(Ambience%20Version).flac"
+            >Fresh Air (Ambience Version).flac</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20(Original%20Game%20Soundtrack)%2FVolume%204%2FFresh%20Air.flac"
+            >Fresh Air.flac</a
         ><br />
     </details>
     <hr />
@@ -816,8 +862,10 @@
             href="OneShot%20Soundtrack%2FSolstice%2FIn%20Memory.flac"
             >In Memory.flac</a
         ><br />
-        <a class="link" href="OneShot%20Soundtrack%2FSolstice%2FEpilogue.flac"
-            >Epilogue.flac</a
+        <a
+            class="link"
+            href="OneShot%20Soundtrack%2FSolstice%2F%3D%3D%5BEpilogue%5D%3D%3D.flac"
+            >==[Epilogue]==.flac</a
         ><br />
         <a class="link" href="OneShot%20Soundtrack%2FSolstice%2FHomesick.flac"
             >Homesick.flac</a
@@ -1189,301 +1237,309 @@
     <a class="link" href="UNDERTALE%20Soundtrack%2FUNDERTALE%20Soundtrack.png"
         >UNDERTALE Soundtrack.png</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FOnce%20Upon%20A%20Time.mp3"
-        >Once Upon A Time.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FOnce%20Upon%20a%20Time.flac"
+        >Once Upon a Time.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FStart%20Menu.mp3"
-        >Start Menu.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FStart%20Menu.flac"
+        >Start Menu.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FYour%20Best%20Friend.mp3"
-        >Your Best Friend.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FYour%20Best%20Friend.flac"
+        >Your Best Friend.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FFallen%20Down.mp3"
-        >Fallen Down.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FFallen%20Down.flac"
+        >Fallen Down.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FRuins.mp3">Ruins.mp3</a
-    ><br />
-    <a
-        class="link"
-        href="UNDERTALE%20Soundtrack%2FUwa!!%20So%20Temperate%E2%99%AB.mp3"
-        >Uwa!! So Temperate♫.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FAnticipation.mp3"
-        >Anticipation.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FUnnecessary%20Tension.mp3"
-        >Unnecessary Tension.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FEnemy%20Approaching.mp3"
-        >Enemy Approaching.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FGhost%20Fight.mp3"
-        >Ghost Fight.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDetermination.mp3"
-        >Determination.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHome.mp3">Home.mp3</a><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHome%20(Music%20Box).mp3"
-        >Home (Music Box).mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHeartache.mp3"
-        >Heartache.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2Fsans.mp3">sans.mp3</a><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FNyeh%20Heh%20Heh!.mp3"
-        >Nyeh Heh Heh!.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSnowy.mp3">Snowy.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FRuins.flac">Ruins.flac</a
     ><br />
     <a
         class="link"
-        href="UNDERTALE%20Soundtrack%2FUwa!!%20So%20Holiday%E2%99%AB.mp3"
-        >Uwa!! So Holiday♫.mp3</a
+        href="UNDERTALE%20Soundtrack%2FUwa!!%20So%20Temperate%E2%99%AB.flac"
+        >Uwa!! So Temperate♫.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDogbass.mp3">Dogbass.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FAnticipation.flac"
+        >Anticipation.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FMysterious%20Place.mp3"
-        >Mysterious Place.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FUnnecessary%20Tension.flac"
+        >Unnecessary Tension.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDogsong.mp3">Dogsong.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FEnemy%20Approaching.flac"
+        >Enemy Approaching.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSnowdin%20Town.mp3"
-        >Snowdin Town.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FGhost%20Fight.flac"
+        >Ghost Fight.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FShop.mp3">Shop.mp3</a><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FBonetrousle.mp3"
-        >Bonetrousle.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDetermination.flac"
+        >Determination.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDating%20Start!.mp3"
-        >Dating Start!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHome.flac">Home.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDating%20Tense!.mp3"
-        >Dating Tense!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHome%20(Music%20Box).flac"
+        >Home (Music Box).flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDating%20Fight!.mp3"
-        >Dating Fight!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHeartache.flac"
+        >Heartache.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FPremonition.mp3"
-        >Premonition.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2Fsans..flac">sans..flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDanger%20Mystery.mp3"
-        >Danger Mystery.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FNyeh%20Heh%20Heh!.flac"
+        >Nyeh Heh Heh!.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FUndyne.mp3">Undyne.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FWaterfall.mp3"
-        >Waterfall.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FRun!.mp3">Run!.mp3</a><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FQuiet%20Water.mp3"
-        >Quiet Water.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FMemory.mp3">Memory.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSnowy.flac">Snowy.flac</a
     ><br />
     <a
         class="link"
-        href="UNDERTALE%20Soundtrack%2FBird%20That%20Carries%20You%20Over%20A%20Disproportionately%20Small%20Gap.mp3"
-        >Bird That Carries You Over A Disproportionately Small Gap.mp3</a
+        href="UNDERTALE%20Soundtrack%2FUwa!!%20So%20Holiday%E2%99%AB.flac"
+        >Uwa!! So Holiday♫.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDummy!.mp3">Dummy!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDogbass.flac">Dogbass.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FPathetic%20House.mp3"
-        >Pathetic House.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FMysterious%20Place.flac"
+        >Mysterious Place.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSpooktune.mp3"
-        >Spooktune.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDogsong.flac">Dogsong.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSpookwave.mp3"
-        >Spookwave.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSnowdin%20Town.flac"
+        >Snowdin Town.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FGhouliday.mp3"
-        >Ghouliday.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FShop.flac">Shop.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FChill.mp3">Chill.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FBonetrousle.flac"
+        >Bonetrousle.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FThundersnail.mp3"
-        >Thundersnail.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDating%20Start!.flac"
+        >Dating Start!.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FTemmie%20Village.mp3"
-        >Temmie Village.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDating%20Tense!.flac"
+        >Dating Tense!.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FTem%20Shop.mp3"
-        >Tem Shop.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDating%20Fight!.flac"
+        >Dating Fight!.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FNGAHHH!!.mp3">NGAHHH!!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FPremonition.flac"
+        >Premonition.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSpear%20of%20Justice.mp3"
-        >Spear of Justice.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDanger%20Mystery.flac"
+        >Danger Mystery.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FOoo.mp3">Ooo.mp3</a><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FAlphys.mp3">Alphys.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FUndyne.flac">Undyne.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FIt's%20Showtime!.mp3"
-        >It's Showtime!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FWaterfall.flac"
+        >Waterfall.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FMetal%20Crusher.mp3"
-        >Metal Crusher.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FRun!.flac">Run!.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FAnother%20Medium.mp3"
-        >Another Medium.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FQuiet%20Water.flac"
+        >Quiet Water.flac</a
     ><br />
-    <a
-        class="link"
-        href="UNDERTALE%20Soundtrack%2FUwa!!%20So%20HEATS!!%E2%99%AB.mp3"
-        >Uwa!! So HEATS!!♫.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FStronger%20Monsters.mp3"
-        >Stronger Monsters.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHotel.mp3">Hotel.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FMemory.flac">Memory.flac</a
     ><br />
     <a
         class="link"
-        href="UNDERTALE%20Soundtrack%2FCan%20You%20Really%20Call%20This%20A%20Hotel%2C%20I%20Didn't%20Receive%20A%20Mint%20On%20My%20Pillow%20Or%20Anything.mp3"
+        href="UNDERTALE%20Soundtrack%2FBird%20That%20Carries%20You%20Over%20A%20Disproportionately%20Small%20Gap.flac"
+        >Bird That Carries You Over A Disproportionately Small Gap.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDummy!.flac">Dummy!.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FPathetic%20House.flac"
+        >Pathetic House.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSpooktune.flac"
+        >Spooktune.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSpookwave.flac"
+        >Spookwave.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FGhouliday.flac"
+        >Ghouliday.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FChill.flac">Chill.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FThundersnail.flac"
+        >Thundersnail.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FTemmie%20Village.flac"
+        >Temmie Village.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FTem%20Shop.flac"
+        >Tem Shop.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FNGAHHH!!.flac"
+        >NGAHHH!!.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSpear%20of%20Justice.flac"
+        >Spear of Justice.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FOoo.flac">Ooo.flac</a><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FAlphys.flac">Alphys.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FIt's%20Showtime!.flac"
+        >It's Showtime!.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FMetal%20Crusher.flac"
+        >Metal Crusher.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FAnother%20Medium.flac"
+        >Another Medium.flac</a
+    ><br />
+    <a
+        class="link"
+        href="UNDERTALE%20Soundtrack%2FUwa!!%20So%20HEATS!!%E2%99%AB.flac"
+        >Uwa!! So HEATS!!♫.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FStronger%20Monsters.flac"
+        >Stronger Monsters.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHotel.flac">Hotel.flac</a
+    ><br />
+    <a
+        class="link"
+        href="UNDERTALE%20Soundtrack%2FCan%20You%20Really%20Call%20This%20A%20Hotel%2C%20I%20Didn't%20Receive%20A%20Mint%20On%20My%20Pillow%20Or%20Anything.flac"
         >Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow
-        Or Anything.mp3</a
+        Or Anything.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FConfession.mp3"
-        >Confession.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FConfession.flac"
+        >Confession.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FLive%20Report.mp3"
-        >Live Report.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FLive%20Report.flac"
+        >Live Report.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDeath%20Report.mp3"
-        >Death Report.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDeath%20Report.flac"
+        >Death Report.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSpider%20Dance.mp3"
-        >Spider Dance.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSpider%20Dance.flac"
+        >Spider Dance.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FWrong%20Enemy%20!-.mp3"
-        >Wrong Enemy !-.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FWrong%20Enemy%20!%3F.flac"
+        >Wrong Enemy !?.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FOh!%20One%20True%20Love.mp3"
-        >Oh! One True Love.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FOh!%20One%20True%20Love.flac"
+        >Oh! One True Love.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FOh!%20Dungeon.mp3"
-        >Oh! Dungeon.mp3</a
-    ><br />
-    <a
-        class="link"
-        href="UNDERTALE%20Soundtrack%2FIt's%20Raining%20Somewhere%20Else.mp3"
-        >It's Raining Somewhere Else.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FCORE%20Approach.mp3"
-        >CORE Approach.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FCORE.mp3">CORE.mp3</a><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FLast%20Episode!.mp3"
-        >Last Episode!.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FOh%20My.mp3">Oh My.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDeath%20by%20Glamour.mp3"
-        >Death by Glamour.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FFor%20the%20Fans.mp3"
-        >For the Fans.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FLong%20Elevator.mp3"
-        >Long Elevator.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FUndertale.mp3"
-        >Undertale.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FOh!%20Dungeon.flac"
+        >Oh! Dungeon.flac</a
     ><br />
     <a
         class="link"
-        href="UNDERTALE%20Soundtrack%2FSong%20That%20Might%20Play%20When%20You%20Fight%20Sans.mp3"
-        >Song That Might Play When You Fight Sans.mp3</a
+        href="UNDERTALE%20Soundtrack%2FIt's%20Raining%20Somewhere%20Else.flac"
+        >It's Raining Somewhere Else.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FThe%20Choice.mp3"
-        >The Choice.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FCORE%20Approach.flac"
+        >CORE Approach.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSmall%20Shock.mp3"
-        >Small Shock.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FCORE.flac">CORE.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FBarrier.mp3">Barrier.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FLast%20Episode!.flac"
+        >Last Episode!.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FBergentr%C3%BCckung.mp3"
-        >Bergentrückung.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FOh%20My....flac"
+        >Oh My....flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FASGORE.mp3">ASGORE.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDeath%20by%20Glamour.flac"
+        >Death by Glamour.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FYou%20Idiot.mp3"
-        >You Idiot.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FFor%20the%20Fans.flac"
+        >For the Fans.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FYour%20Best%20Nightmare.mp3"
-        >Your Best Nightmare.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FLong%20Elevator.flac"
+        >Long Elevator.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FFinale.mp3">Finale.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FAn%20Ending.mp3"
-        >An Ending.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FShe's%20Playing%20Piano.mp3"
-        >She's Playing Piano.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHere%20We%20Are.mp3"
-        >Here We Are.mp3</a
-    ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FAmalgam.mp3">Amalgam.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FUndertale.flac"
+        >Undertale.flac</a
     ><br />
     <a
         class="link"
-        href="UNDERTALE%20Soundtrack%2FFallen%20Down%20(Reprise).mp3"
-        >Fallen Down (Reprise).mp3</a
+        href="UNDERTALE%20Soundtrack%2FSong%20That%20Might%20Play%20When%20You%20Fight%20Sans.flac"
+        >Song That Might Play When You Fight Sans.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FDon't%20Give%20Up.mp3"
-        >Don't Give Up.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FThe%20Choice.flac"
+        >The Choice.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHopes%20and%20Dreams.mp3"
-        >Hopes and Dreams.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSmall%20Shock.flac"
+        >Small Shock.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FBurn%20in%20Despair!.mp3"
-        >Burn in Despair!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FBarrier.flac">Barrier.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FSAVE%20the%20World.mp3"
-        >SAVE the World.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FBergentr%C3%BCckung.flac"
+        >Bergentrückung.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FHis%20Theme.mp3"
-        >His Theme.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FASGORE.flac">ASGORE.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FFinal%20Power.mp3"
-        >Final Power.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FYou%20Idiot.flac"
+        >You Idiot.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FReunited.mp3">Reunited.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FYour%20Best%20Nightmare.flac"
+        >Your Best Nightmare.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FMenu%20(Full).mp3"
-        >Menu (Full).mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FFinale.flac">Finale.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FRespite.mp3">Respite.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FAn%20Ending.flac"
+        >An Ending.flac</a
     ><br />
-    <a
-        class="link"
-        href="UNDERTALE%20Soundtrack%2FBring%20It%20In%2C%20Guys!.mp3"
-        >Bring It In, Guys!.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FShe's%20Playing%20Piano.flac"
+        >She's Playing Piano.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FLast%20Goodbye.mp3"
-        >Last Goodbye.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHere%20We%20Are.flac"
+        >Here We Are.flac</a
     ><br />
-    <a
-        class="link"
-        href="UNDERTALE%20Soundtrack%2FBut%20the%20Earth%20Refused%20to%20Die.mp3"
-        >But the Earth Refused to Die.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FAmalgam.flac">Amalgam.flac</a
     ><br />
     <a
         class="link"
-        href="UNDERTALE%20Soundtrack%2FBattle%20Against%20a%20True%20Hero.mp3"
-        >Battle Against a True Hero.mp3</a
+        href="UNDERTALE%20Soundtrack%2FFallen%20Down%20(Reprise).flac"
+        >Fallen Down (Reprise).flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FPower%20of%20-NEO-.mp3"
-        >Power of -NEO-.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FDon't%20Give%20Up.flac"
+        >Don't Give Up.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FMegalovania.mp3"
-        >Megalovania.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHopes%20and%20Dreams.flac"
+        >Hopes and Dreams.flac</a
     ><br />
-    <a class="link" href="UNDERTALE%20Soundtrack%2FGood%20Night.mp3"
-        >Good Night.mp3</a
+    <a class="link" href="UNDERTALE%20Soundtrack%2FBurn%20in%20Despair!.flac"
+        >Burn in Despair!.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FSAVE%20the%20World.flac"
+        >SAVE the World.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FHis%20Theme.flac"
+        >His Theme.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FFinal%20Power.flac"
+        >Final Power.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FReunited.flac"
+        >Reunited.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FMenu%20(Full).flac"
+        >Menu (Full).flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FRespite.flac">Respite.flac</a
+    ><br />
+    <a
+        class="link"
+        href="UNDERTALE%20Soundtrack%2FBring%20It%20In%2C%20Guys!.flac"
+        >Bring It In, Guys!.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FLast%20Goodbye.flac"
+        >Last Goodbye.flac</a
+    ><br />
+    <a
+        class="link"
+        href="UNDERTALE%20Soundtrack%2FBut%20the%20Earth%20Refused%20to%20Die.flac"
+        >But the Earth Refused to Die.flac</a
+    ><br />
+    <a
+        class="link"
+        href="UNDERTALE%20Soundtrack%2FBattle%20Against%20a%20True%20Hero.flac"
+        >Battle Against a True Hero.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FPower%20of%20%22NEO%22.flac"
+        >Power of "NEO".flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FMEGALOVANIA.flac"
+        >MEGALOVANIA.flac</a
+    ><br />
+    <a class="link" href="UNDERTALE%20Soundtrack%2FGood%20Night.flac"
+        >Good Night.flac</a
     ><br />
 </details>
 <hr />
