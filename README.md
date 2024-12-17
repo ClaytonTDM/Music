@@ -737,41 +737,6 @@
         ><br />
     </details>
     <hr />
-    <details>
-        <hr />
-        <summary>Volume 4</summary>
-        <a
-            class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%204%2FReady%20Or%20Not.flac"
-            >Ready Or Not.flac</a
-        ><br />
-        <a
-            class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%204%2FReady%20To%20Rumble.flac"
-            >Ready To Rumble.flac</a
-        ><br />
-        <a
-            class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%204%2FJeff's%20Jam.flac"
-            >Jeff's Jam.flac</a
-        ><br />
-        <a
-            class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%204%2FOh%20Dam.flac"
-            >Oh Dam.flac</a
-        ><br />
-        <a
-            class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%204%2FFresh%20Air%20(Ambience%20Version).flac"
-            >Fresh Air (Ambience Version).flac</a
-        ><br />
-        <a
-            class="link"
-            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%204%2FFresh%20Air.flac"
-            >Fresh Air.flac</a
-        ><br />
-    </details>
-    <hr />
 </details>
 <hr />
 <details>
