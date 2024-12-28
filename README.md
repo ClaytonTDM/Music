@@ -747,8 +747,8 @@
         <summary>Brotherhood</summary>
         <a
             class="link"
-            href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FBrotherhood%2FDeath%20By%20AI%3A%20Brotherhood%20(Original%20Game%20Soundtrack).jpg.jpg"
-            >Death By AI: Brotherhood (Original Game Soundtrack).jpg.jpg</a
+            href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FBrotherhood%2FDeath%20By%20AI%3A%20Brotherhood%20(Original%20Game%20Soundtrack).jpg"
+            >Death By AI: Brotherhood (Original Game Soundtrack).jpg</a
         ><br />
         <a
             class="link"
