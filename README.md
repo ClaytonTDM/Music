@@ -777,12 +777,12 @@
         ><br />
         <a
             class="link"
-            href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FLone%20Survivor%2FWriting%20Round%20%20(Lone%20Survivor).flac"
+            href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FLone%20Survivor%2FWriting%20Round%20(Lone%20Survivor).flac"
             >Writing Round (Lone Survivor).flac</a
         ><br />
         <a
             class="link"
-            href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FLone%20Survivor%2FLone%20Survivor%20%20(Alternate%20Version).flac"
+            href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FLone%20Survivor%2FLone%20Survivor%20(Alternate%20Version).flac"
             >Lone Survivor (Alternate Version).flac</a
         ><br />
     </details>
@@ -809,7 +809,7 @@
     ><br />
     <a
         class="link"
-        href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FMain%20Theme%20%20(Alternate%20Version).flac"
+        href="Death%20By%20AI%20(Original%20Game%20Soundtrack)%2FMain%20Theme%20(Alternate%20Version).flac"
         >Main Theme (Alternate Version).flac</a
     ><br />
 </details>
