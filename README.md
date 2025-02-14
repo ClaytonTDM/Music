@@ -1,3 +1,13 @@
+**TODO:**
+
+- Celeste Soundtrack in FLAC (currently MP3s from Steam)
+- Celeste B-Sides & Farewell
+- Portal 1 OST
+- JS&B OST
+- Minecraft OST (maybe not, microsoft might get mad)
+
+---
+
 <!-- files -->
 <details>
     <hr />
