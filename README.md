@@ -4,8 +4,9 @@
 - Celeste B-Sides & Farewell
 - Portal 1 OST
 - JS&B OST
-- Minecraft OST (maybe not, microsoft might get mad)
+- Minecraft OST (maybe not, Microsoft might get mad)
 - Geometry Dash OST (with the NCS event levels)
+- Cuphead OST
 
 ---
 
