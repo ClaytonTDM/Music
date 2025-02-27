@@ -20,10 +20,10 @@ jobs:
                   node-version: "20"
 
             - name: Install dependencies
-              run: npm install music-metadata prettier
+              run: cd scripts && npm install
 
             - name: Run script to update README
-              run: node scripts/update_readme.mjs
+              run: node scripts/update-readme.js
 
             - name: Run Prettier on README.md
               run: npx prettier --write README.md --parser html --tab-width 4
