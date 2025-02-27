@@ -1,14 +1,7 @@
-**TODO:**
-
-- Celeste Soundtrack in FLAC (currently MP3s from Steam)
-- Celeste B-Sides & Farewell
-- Portal 1 OST
-- JS&B OST
-- Minecraft OST (maybe not, Microsoft might get mad)
-- Geometry Dash OST (with the NCS event levels)
-- Cuphead OST
-
----
+**TODO:** - Celeste Soundtrack in FLAC (currently MP3s from Steam) - Celeste
+B-Sides & Farewell - Portal 1 OST - JS&B OST - Minecraft OST (maybe not,
+Microsoft might get mad) - Geometry Dash OST (with the NCS event levels) -
+Cuphead OST ---
 
 <!-- files -->
 <details>
@@ -1617,6 +1610,86 @@
     <a class="link" href="Super%20Hexagon%20EP%2FFocus%20Finale.flac"
         >Focus Finale.flac</a
     ><br />
+</details>
+<hr />
+<details>
+    <hr />
+    <summary>The Orange Box Original Soundtrack</summary>
+    <details>
+        <hr />
+        <summary>Portal Soundtrack</summary>
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FPortal%20Soundtrack.png"
+            >Portal Soundtrack.png</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FSubject%20Name%20Here.flac"
+            >Subject Name Here.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FTaste%20of%20Blood.flac"
+            >Taste of Blood.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FAndroid%20Hell.flac"
+            >Android Hell.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FSelf%20Esteem%20Fund.flac"
+            >Self Esteem Fund.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FProcedural%20Jiggle%20Bone.flac"
+            >Procedural Jiggle Bone.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FNo%20Cake%20For%20You.flac"
+            >No Cake For You.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2F4000%20Degrees%20Kelvin.flac"
+            >4000 Degrees Kelvin.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FStop%20What%20You%20Are%20Doing.flac"
+            >Stop What You Are Doing.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FParty%20Escort.flac"
+            >Party Escort.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FYou're%20Not%20A%20Good%20Person.flac"
+            >You're Not A Good Person.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FYou%20Can't%20Escape%2C%20You%20Know.flac"
+            >You Can't Escape, You Know.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FStill%20Alive.flac"
+            >Still Alive.flac</a
+        ><br />
+        <a
+            class="link"
+            href="The%20Orange%20Box%20Original%20Soundtrack%2FPortal%20Soundtrack%2FStill%20Alive%20(J.C.%20Mix).flac"
+            >Still Alive (J.C. Mix).flac</a
+        ><br />
+    </details>
+    <hr />
 </details>
 <hr />
 <details>
