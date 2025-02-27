@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+details,
+a.link {
+    margin-left: 1em;
+    cursor: pointer;
+}
