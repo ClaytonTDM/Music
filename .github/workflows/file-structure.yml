@@ -27,7 +27,7 @@ jobs:
               run: node scripts/update-readme.js
 
             - name: Run Prettier on README.md
-              run: npx prettier --write README.md --parser html --tab-width 4
+              run: npx prettier --write README.md --parser html
 
             - name: Commit and push changes and trigger another workflow
               run: |
