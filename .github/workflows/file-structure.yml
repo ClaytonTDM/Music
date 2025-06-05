@@ -11,9 +11,14 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
+            - name: Clean APT + temp files
+              run: |
+                sudo apt-get clean
+                rm -rf /tmp/*
             - name: Checkout repository
               uses: actions/checkout@v4
-
+              with:
+                  fetch-depth: 1
             - name: Set up Node.js
               uses: actions/setup-node@v4
               with:
