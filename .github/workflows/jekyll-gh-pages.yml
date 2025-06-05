@@ -26,8 +26,14 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
+            - name: Clean APT + temp files
+              run: |
+                sudo apt-get clean
+                rm -rf /tmp/*
             - name: Checkout
               uses: actions/checkout@v4
+              with:
+                  fetch-depth: 1
             - name: Setup Pages
               uses: actions/configure-pages@v5
             - name: Build with Jekyll
