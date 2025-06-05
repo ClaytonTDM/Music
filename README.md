@@ -1,9 +1,13 @@
-**TODO:** - Celeste Soundtrack in FLAC (currently MP3s from Steam) - Celeste
-B-Sides & Farewell - ~~Portal 1 OST~~ https://github.com/ClaytonTDM/Music/pull/6
-+ https://github.com/ClaytonTDM/Music/pull/7 - JS&B OST - Minecraft OST (maybe
-not, Microsoft might get mad) - Geometry Dash OST (with the NCS event levels) -
-Cuphead OST
-
+<!--
+TODO:
+- Celeste Soundtrack in FLAC (currently MP3s from Steam)
+- Celeste
+B-Sides & Farewell
+- JS&B OST
+- Minecraft OST (maybe not, Microsoft might get mad)
+- Geometry Dash O(?)ST (with the NCS event levels)
+- Cuphead OST
+-->
 <!-- files -->
 <details>
     <hr />
