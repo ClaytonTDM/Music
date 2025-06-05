@@ -2285,6 +2285,4 @@ B-Sides & Farewell
 	><br />
 </details>
 <hr />
-<a class="link" href=".markdownlint.jsonc">.markdownlint.jsonc</a><br />
-<a class="link" href=".prettierrc">.prettierrc</a><br />
 <!-- files-end -->

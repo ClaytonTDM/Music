@@ -18,6 +18,8 @@ const EXCLUDED = new Set([
 	"package-lock.json",
 	"pnpm-lock.yaml",
 	"README.md",
+	".prettierrc",
+	".markdownlint.jsonc",
 ]);
 const AUDIO_EXTENSIONS = new Set([".mp3", ".flac", ".m4a", ".wav", ".ogg"]);
 
