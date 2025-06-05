@@ -1,12 +1,8 @@
-**TODO:**
-
-- Celeste Soundtrack in FLAC (currently MP3s from Steam)
-- Celeste B-Sides & Farewell
-- ~~Portal 1 OST~~ https://github.com/ClaytonTDM/Music/pull/6 + https://github.com/ClaytonTDM/Music/pull/7
-- JS&B OST
-- Minecraft OST (maybe not, Microsoft might get mad)
-- Geometry Dash OST (with the NCS event levels)
-- Cuphead OST
+**TODO:** - Celeste Soundtrack in FLAC (currently MP3s from Steam) - Celeste
+B-Sides & Farewell - ~~Portal 1 OST~~ https://github.com/ClaytonTDM/Music/pull/6
++ https://github.com/ClaytonTDM/Music/pull/7 - JS&B OST - Minecraft OST (maybe
+not, Microsoft might get mad) - Geometry Dash OST (with the NCS event levels) -
+Cuphead OST
 
 <!-- files -->
 <details>
@@ -584,6 +580,378 @@
             class="link"
             href="DELTARUNE%20OST%2FChapter%202%2FBerdly%20(Rejected%20Concept).flac"
             >Berdly (Rejected Concept).flac</a
+        ><br />
+    </details>
+    <hr />
+    <details>
+        <hr />
+        <summary>Chapters 3+4</summary>
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FDELTARUNE%20Chapters%203%2B4%20OST.png"
+            >DELTARUNE Chapters 3+4 OST.png</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FFlashback%20(Excerpt).flac"
+            >Flashback (Excerpt).flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FFeature%20Presentation.flac"
+            >Feature Presentation.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FAnd%20Now%20For%20Today%E2%80%99s%20Sponsors%E2%80%A6!.flac"
+            >And Now For Today’s Sponsors…!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FMIKE%2C%20the%20BOARD%2C%20please!.flac"
+            >MIKE, the BOARD, please!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FSandy%20Board.flac"
+            >Sandy Board.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FAdventure%20Board.flac"
+            >Adventure Board.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FQuery%3F.flac"
+            >Query?.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FQuiz!.flac"
+            >Quiz!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FDig!%20Dig!%20To%20The%20Center%20of%20the%20Earth!.flac"
+            >Dig! Dig! To The Center of the Earth!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FPushing%20Buddies.flac"
+            >Pushing Buddies.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FRuder%20Buster.flac"
+            >Ruder Buster.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FPhysical%20Challenge.flac"
+            >Physical Challenge.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FBoard%20Clear!.flac"
+            >Board Clear!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FWelcome%20to%20the%20Green%20Room.flac"
+            >Welcome to the Green Room.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FVapor%20Buster.flac"
+            >Vapor Buster.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FParadise%2C%20Paradise.flac"
+            >Paradise, Paradise.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FRaft%20Ride.flac"
+            >Raft Ride.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FSOUTH%20OF%20THE%20BORDER!!.flac"
+            >SOUTH OF THE BORDER!!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FSound%20Check.flac"
+            >Sound Check.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FRaise%20Up%20Your%20Bat.flac"
+            >Raise Up Your Bat.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FKING%20OF%20ROLYPOLY.flac"
+            >KING OF ROLYPOLY.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FGlowing%20Snow.flac"
+            >Glowing Snow.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FBig%20City%20Board.flac"
+            >Big City Board.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FDoom%20Board.flac"
+            >Doom Board.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FMetaphysical%20Challenge.flac"
+            >Metaphysical Challenge.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FTV%20WORLD.flac"
+            >TV WORLD.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FIt%E2%80%99s%20TV%20Time!.flac"
+            >It’s TV Time!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FHall%20of%20Fame.flac"
+            >Hall of Fame.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FBreath.flac"
+            >Breath.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FBlack%20Knife.flac"
+            >Black Knife.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FCrickets.flac"
+            >Crickets.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FDump.flac"
+            >Dump.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FSWORD.flac"
+            >SWORD.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FNORTHERNLIGHT.flac"
+            >NORTHERNLIGHT.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FGLACEIR.flac"
+            >GLACEIR.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FBIT%20ROOTS.flac"
+            >BIT ROOTS.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FERAM.flac"
+            >ERAM.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FBURNING%20EYES.flac"
+            >BURNING EYES.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FOld%20wooden%20rafters.flac"
+            >Old wooden rafters.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FHymn.flac"
+            >Hymn.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FAnother%20day%20in%20hometown.flac"
+            >Another day in hometown.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FFriends.flac"
+            >Friends.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FCastle%20Funk.flac"
+            >Castle Funk.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FKnock%20You%20Down!!%20(Rhythm%20Ver.).flac"
+            >Knock You Down!! (Rhythm Ver.).flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FGingerbread%20House.flac"
+            >Gingerbread House.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FThe%20distance%20between%20two.flac"
+            >The distance between two.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FC.flac"
+            >C.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FATRIUM.flac"
+            >ATRIUM.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FDark%20Sanctuary.flac"
+            >Dark Sanctuary.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FFrom%20Now%20On%20(Battle%202).flac"
+            >From Now On (Battle 2).flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FGyaa%20Ha%20ha!.flac"
+            >Gyaa Ha ha!.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FFireplace.flac"
+            >Fireplace.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FA%20DARK%20ZONE.flac"
+            >A DARK ZONE.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FMysterious%20Ringing.flac"
+            >Mysterious Ringing.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FEver%20Higher.flac"
+            >Ever Higher.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FWise%20words.flac"
+            >Wise words.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FPiano%20that%20may%20not%20be%20played%20that%20well.flac"
+            >Piano that may not be played that well.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FHammer%20of%20Justice.flac"
+            >Hammer of Justice.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2F12am.flac"
+            >12am.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FThe%20Second%20Sanctuary.flac"
+            >The Second Sanctuary.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FRipple.flac"
+            >Ripple.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2F13am.flac"
+            >13am.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FThe%20Third%20Sanctuary.flac"
+            >The Third Sanctuary.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FDark%20Place.flac"
+            >Dark Place.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FHeavy%20Footsteps.flac"
+            >Heavy Footsteps.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FCrumbling%20Tower.flac"
+            >Crumbling Tower.flac</a
+        ><br />
+        <a class="link" href="DELTARUNE%20OST%2FChapters%203%2B4%2FSPAWN.flac"
+            >SPAWN.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FGUARDIAN.flac"
+            >GUARDIAN.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FNeed%20a%20hand!%3F.flac"
+            >Need a hand!?.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FThe%20place%20where%20it%20rained.flac"
+            >The place where it rained.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FThe%20Ol%E2%80%99%20Jitterbug.flac"
+            >The Ol’ Jitterbug.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FNeverending%20Night.flac"
+            >Neverending Night.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FThe%20LEGEND...%3F.flac"
+            >The LEGEND...?.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FWith%20Hope%20Crossed%20On%20Our%20Hearts.flac"
+            >With Hope Crossed On Our Hearts.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FVolume%20Adjustment.flac"
+            >Volume Adjustment.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FCatswing.flac"
+            >Catswing.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FAIRWAVES.flac"
+            >AIRWAVES.flac</a
+        ><br />
+        <a
+            class="link"
+            href="DELTARUNE%20OST%2FChapters%203%2B4%2FConcert%20for%20you.flac"
+            >Concert for you.flac</a
         ><br />
     </details>
     <hr />
