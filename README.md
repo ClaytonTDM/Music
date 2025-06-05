@@ -1532,6 +1532,12 @@ B-Sides & Farewell
 <hr />
 <details>
 	<hr />
+	<summary>Playlists</summary>
+	<a class="link" href="Playlists%2FBangers.m3u">Bangers.m3u</a><br />
+</details>
+<hr />
+<details>
+	<hr />
 	<summary>Portal 2: Songs to Test By</summary>
 	<a
 		class="link"
@@ -2279,5 +2285,6 @@ B-Sides & Farewell
 	><br />
 </details>
 <hr />
-<a class="link" href="Bangers.m3u">Bangers.m3u</a><br />
+<a class="link" href=".markdownlint.jsonc">.markdownlint.jsonc</a><br />
+<a class="link" href=".prettierrc">.prettierrc</a><br />
 <!-- files-end -->
