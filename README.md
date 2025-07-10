@@ -1127,6 +1127,221 @@ B-Sides & Farewell
 <hr />
 <details>
 	<hr />
+	<summary>In Stars and Time (a soundtrack)</summary>
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIn%20Stars%20and%20Time%20(a%20soundtrack).jpg"
+		>In Stars and Time (a soundtrack).jpg</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIn%20Stars%20and%20Time.flac"
+		>In Stars and Time.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FPrologue.flac"
+		>Prologue.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FDormont.flac"
+		>Dormont.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FDormont%20(Welcome%20To%20My%20Home%2C%20Stranger).flac"
+		>Dormont (Welcome To My Home, Stranger).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FThe%20Journey%20So%20Far.flac"
+		>The Journey So Far.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FLet's%20Play%20Rock%20Paper%20Scissors!.flac"
+		>Let's Play Rock Paper Scissors!.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FGet%20Ready%2C%20Everyone!%20(Battle%20Theme).flac"
+		>Get Ready, Everyone! (Battle Theme).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FBe%20Careful%2C%20Everyone!%20(Boss%20theme).flac"
+		>Be Careful, Everyone! (Boss theme).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FGo%20Back%20(Death's%20Theme).flac"
+		>Go Back (Death's Theme).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FGame%20Over.flac"
+		>Game Over.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FHow%20Can%20I%20Help%20You%2C%20Stardust%3F%20(Loop's%20theme).flac"
+		>How Can I Help You, Stardust? (Loop's theme).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FThe%20House%20(Floor%201).flac"
+		>The House (Floor 1).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FThe%20House%20(Floor%202).flac"
+		>The House (Floor 2).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FThe%20House%20(Floor%203).flac"
+		>The House (Floor 3).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FWe're%20With%20You!.flac"
+		>We're With You!.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIs%20It%20Snack%20Time%20Yet....flac"
+		>Is It Snack Time Yet....flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FFrozen%20in%20Time.flac"
+		>Frozen in Time.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FPlease%20Don't%20Be%20Sad.flac"
+		>Please Don't Be Sad.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIn%20the%20Presence%20of%20the%20King.flac"
+		>In the Presence of the King.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FDo%20You%20Remember%20(King's%20Theme).flac"
+		>Do You Remember (King's Theme).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FPower%20of%20Friendship.flac"
+		>Power of Friendship.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIt's%20Finally%20Over....flac"
+		>It's Finally Over....flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIsn't%20it%20Over%3F.flac"
+		>Isn't it Over?.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FFriend%20Quest.flac"
+		>Friend Quest.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FFriend%20Quest%20(Solo).flac"
+		>Friend Quest (Solo).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FLet's%20Hang%20Out%2C%20Stardust!.flac"
+		>Let's Hang Out, Stardust!.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FThinking%20Time.flac"
+		>Thinking Time.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FDo%20You%20Remember%20(Our%20Country).flac"
+		>Do You Remember (Our Country).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FAn%20Island%20North%20of%20Vaugarde.flac"
+		>An Island North of Vaugarde.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FThe%20House%20(Trapped).flac"
+		>The House (Trapped).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FDo%20You%20Remember%20(We've%20Been%20Through%20This%20Before).flac"
+		>Do You Remember (We've Been Through This Before).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FGame%20Over%20(Don't%20Leave%20Me%20Alone%20Here).flac"
+		>Game Over (Don't Leave Me Alone Here).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FPower%20of%20Love.flac"
+		>Power of Love.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FI%20WON'T%20LET%20YOU%20GO%20HOME.flac"
+		>I WON'T LET YOU GO HOME.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FTell%20Us%20Tell%20Us%20Tell%20Us.flac"
+		>Tell Us Tell Us Tell Us.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FYou%20Want%20To%20Stay%20With%20Them.flac"
+		>You Want To Stay With Them.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIt's%20Finally%20Over...%20(Reprise).flac"
+		>It's Finally Over... (Reprise).flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FHow%20Can%20You%20Help%20Me%2C%20Stardust%3F.flac"
+		>How Can You Help Me, Stardust?.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FIt's%20Thanks%20To%20You.flac"
+		>It's Thanks To You.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FLong%20Journey.flac"
+		>Long Journey.flac</a
+	><br />
+	<a
+		class="link"
+		href="In%20Stars%20and%20Time%20(a%20soundtrack)%2FCredits.flac"
+		>Credits.flac</a
+	><br />
+</details>
+<hr />
+<details>
+	<hr />
 	<summary>OneShot Soundtrack</summary>
 	<details>
 		<hr />
@@ -1533,6 +1748,14 @@ B-Sides & Farewell
 <details>
 	<hr />
 	<summary>Playlists</summary>
+	<details>
+		<hr />
+		<summary>Personal</summary>
+		<a class="link" href="Playlists%2FPersonal%2FRude%20Busters.m3u"
+			>Rude Busters.m3u</a
+		><br />
+	</details>
+	<hr />
 	<a class="link" href="Playlists%2FBangers.m3u">Bangers.m3u</a><br />
 </details>
 <hr />
