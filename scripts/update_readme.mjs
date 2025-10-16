@@ -13,6 +13,7 @@ const EXCLUDED = new Set([
 	"view",
 	"_config.yml",
 	".gitignore",
+	".gitattributes",
 	"desktop.ini",
 	"package.json",
 	"package-lock.json",
