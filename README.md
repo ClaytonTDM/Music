@@ -36,6 +36,29 @@ B-Sides & Farewell
 </details><hr>
 <details>
 <hr>
+<summary>F-777</summary>
+<details>
+<hr>
+<summary>Run 3 (OST)</summary>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FCrumbling%20Walls.jpg">Crumbling Walls.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FLeaving%20The%20Solar%20System.jpg">Leaving The Solar System.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FMap%20Of%20The%20Stars.jpg">Map Of The Stars.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FThe%20Void.jpg">The Void.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FTraveling%20The%20Galaxy.jpg">Traveling The Galaxy.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FUnsafe%20Speeds.jpg">Unsafe Speeds.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FWormhole%20To%20Somewhere.jpg">Wormhole To Somewhere.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2Fcover.jpg">cover.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FTraveling%20The%20Galaxy.flac">Traveling The Galaxy.flac</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FUnsafe%20Speeds.flac">Unsafe Speeds.flac</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FWormhole%20To%20Somewhere.flac">Wormhole To Somewhere.flac</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FCrumbling%20Walls.flac">Crumbling Walls.flac</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FThe%20Void.flac">The Void.flac</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FMap%20Of%20The%20Stars.flac">Map Of The Stars.flac</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FLeaving%20The%20Solar%20System.flac">Leaving The Solar System.flac</a><br>
+</details><hr>
+</details><hr>
+<details>
+<hr>
 <summary>Flowerhead</summary>
 <details>
 <hr>
@@ -299,7 +322,6 @@ B-Sides & Farewell
 <details>
 <hr>
 <summary>Personal</summary>
-<a class="link" href="Playlists%2FPersonal%2FRude%20Busters.m3u">Rude Busters.m3u</a><br>
 </details><hr>
 <a class="link" href="Playlists%2FBangers.m3u">Bangers.m3u</a><br>
 </details><hr>
