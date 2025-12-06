@@ -221,11 +221,6 @@ B-Sides & Farewell
 </details><hr>
 <details>
 <hr>
-<summary>Misc</summary>
-<a class="link" href="Misc%2F685746_Death-Moon.mp3">685746_Death-Moon.mp3</a><br>
-</details><hr>
-<details>
-<hr>
 <summary>Nightmargin</summary>
 <details>
 <hr>
@@ -743,6 +738,11 @@ B-Sides & Farewell
 <a class="link" href="Toby%20Fox%2FUNDERTALE%20Soundtrack%2FMEGALOVANIA.flac">MEGALOVANIA.flac</a><br>
 <a class="link" href="Toby%20Fox%2FUNDERTALE%20Soundtrack%2FGood%20Night.flac">Good Night.flac</a><br>
 </details><hr>
+</details><hr>
+<details>
+<hr>
+<summary>Untagged</summary>
+<a class="link" href="Untagged%2F685746_Death-Moon.mp3">685746_Death-Moon.mp3</a><br>
 </details><hr>
 <details>
 <hr>
