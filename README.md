@@ -25,17 +25,6 @@ B-Sides & Farewell
 </details><hr>
 <details>
 <hr>
-<summary>ClaytonTDM</summary>
-<details>
-<hr>
-<summary>Radio Silent</summary>
-<a class="link" href="ClaytonTDM%2FRadio%20Silent%2FRadio%20Silent.png">Radio Silent.png</a><br>
-<a class="link" href="ClaytonTDM%2FRadio%20Silent%2FRadio%20Silent.flac">Radio Silent.flac</a><br>
-<a class="link" href="ClaytonTDM%2FRadio%20Silent%2FRadio%20Silent%20VIP.flac">Radio Silent VIP.flac</a><br>
-</details><hr>
-</details><hr>
-<details>
-<hr>
 <summary>F-777</summary>
 <details>
 <hr>
@@ -43,11 +32,11 @@ B-Sides & Farewell
 <a class="link" href="F-777%2FRun%203%20(OST)%2FCrumbling%20Walls.jpg">Crumbling Walls.jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FLeaving%20The%20Solar%20System.jpg">Leaving The Solar System.jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FMap%20Of%20The%20Stars.jpg">Map Of The Stars.jpg</a><br>
+<a class="link" href="F-777%2FRun%203%20(OST)%2FRun%203%20(OST).jpg">Run 3 (OST).jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FThe%20Void.jpg">The Void.jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FTraveling%20The%20Galaxy.jpg">Traveling The Galaxy.jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FUnsafe%20Speeds.jpg">Unsafe Speeds.jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FWormhole%20To%20Somewhere.jpg">Wormhole To Somewhere.jpg</a><br>
-<a class="link" href="F-777%2FRun%203%20(OST)%2Fcover.jpg">cover.jpg</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FTraveling%20The%20Galaxy.flac">Traveling The Galaxy.flac</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FUnsafe%20Speeds.flac">Unsafe Speeds.flac</a><br>
 <a class="link" href="F-777%2FRun%203%20(OST)%2FWormhole%20To%20Somewhere.flac">Wormhole To Somewhere.flac</a><br>
@@ -229,6 +218,11 @@ B-Sides & Farewell
 <a class="link" href="Lena%20Raine%2FCeleste%20Original%20Soundtrack%2FHeart%20of%20the%20Mountain.mp3">Heart of the Mountain.mp3</a><br>
 <a class="link" href="Lena%20Raine%2FCeleste%20Original%20Soundtrack%2FMy%20Dearest%20Friends.mp3">My Dearest Friends.mp3</a><br>
 </details><hr>
+</details><hr>
+<details>
+<hr>
+<summary>Misc</summary>
+<a class="link" href="Misc%2F685746_Death-Moon.mp3">685746_Death-Moon.mp3</a><br>
 </details><hr>
 <details>
 <hr>
@@ -860,4 +854,5 @@ B-Sides & Farewell
 <a class="link" href="ePiaeon%2FFLOP%20ERA%20(Deluxe)%2FFLOP%20ERA%20(Instrumental).flac">FLOP ERA (Instrumental).flac</a><br>
 </details><hr>
 </details><hr>
+<a class="link" href="Music.zip">Music.zip</a><br>
 <!-- files-end -->
