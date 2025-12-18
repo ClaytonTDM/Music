@@ -1,6 +1,0 @@
-{
-	"dependencies": {
-		"music-metadata": "^10.9.0",
-		"util": "^0.12.5"
-	}
-}
